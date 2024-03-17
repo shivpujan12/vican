@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@500&display=swap');
+
+.category {
+  text-align: start;
+  font-family: 'Onest', sans-serif;
+  padding-top: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.card {
+  min-height: 500px;
+}
